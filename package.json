@@ -1,0 +1,12 @@
+{
+  "name": "lds-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node run.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
